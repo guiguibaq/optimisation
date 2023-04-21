@@ -1,2 +1,2 @@
-# optimisation
-Research related to optimisation
+# Optimisation
+Exploring optimisation under uncertainty
